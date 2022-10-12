@@ -64,6 +64,7 @@ The project is deployed to the following deployment configuration
 - [Typescript](https://www.typescriptlang.org/)
 - [Phosphor Icons](https://github.com/phosphor-icons/phosphor-react)
 - [Storybook Deployer](https://github.com/storybookjs/storybook-deployer)
+- [Storybook Accessibility](https://storybook.js.org/addons/@storybook/addon-a11y)
 
 ## ✍️ Authors <a name = "authors"></a>
 
